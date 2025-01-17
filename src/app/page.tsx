@@ -2,7 +2,7 @@ import Cambio from "./components/cambio";
 
 export default function Home() {
   return (
-   <div className="md:w-[1440px] mx-auto py-8 h-screen flex md:flex-row flex-col items-center justify-around z-[10]">
+   <div className="md:w-[1440px] mx-auto py-8 px-12 h-screen flex md:flex-row flex-col items-center justify-around z-[10]">
     <div className="bg-img z-0 h-screen w-full absolute">
     </div>
 
